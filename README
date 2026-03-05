@@ -1,0 +1,2 @@
+Baixar o arquivo py e colocar na mesma pasta do webdriver que será usado na automação
+Atualmente sendo usado Edge para isso, pois o pjur funciona melhor nesse navegador, por algum motivo.
